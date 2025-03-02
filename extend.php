@@ -1,6 +1,6 @@
 <?php
 
-namespace kk14569\flarumhubuix;
+namespace HalinaStudio\TionLoongUI2;
 
 use Flarum\Extend;
 use Flarum\Frontend\Document;
