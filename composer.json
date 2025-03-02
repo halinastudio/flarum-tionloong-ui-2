@@ -1,30 +1,30 @@
 {
-    "name": "kk14569/flarum-hubui-x",
-    "description": "A modern and soft theme designed by 14569 for Flarum.",
+    "name": "HaliNa/flarum-TionLoong-UI-2",
+    "description": "Rounded and right angles, soft and hard core, modern and realistic, a perfect collision!",
     "type": "flarum-extension",
-    "version": "v1.1.6",
+    "version": "v2.0.4",
     "license": "GPL-3.0",
     "require": {
         "flarum/core": "^1.8.0"
     },
     "authors": [
         {
-            "name": "14569",
+            "name": "HaliNa",
             "email": "3754688512@qq.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/kk14569/flarum-hubui-x/issues",
-        "source": "https://github.com/kk14569/flarum-hubui-x",
+        "issues": "https://github.com/HalinaStudio/flarum-hubui-x/issues",
+        "source": "https://github.com/HalinaStudio/flarum",
         "forum": "https://discuss.flarum.org/d/34823"
     },
     "extra": {
         "flarum-extension": {
-            "title": "HubUi-X",
+            "title": "TionLoong-UI-2",
             "category": "theme",
             "icon": {
-                "name": "fas fa-th-large",
+                "name": "fas fa-book",
                 "backgroundColor": "#0076D4",
                 "color": "#fff"
             }
