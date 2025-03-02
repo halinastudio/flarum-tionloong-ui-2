@@ -1,5 +1,5 @@
 {
-    "name": "HaliNa/flarum-TionLoong-UI-2",
+    "name": "HaliNa/TionLoong-UI-2",
     "description": "Rounded and right angles, soft and hard core, modern and realistic, a perfect collision!",
     "type": "flarum-extension",
     "version": "v2.0.4",
@@ -10,14 +10,14 @@
     "authors": [
         {
             "name": "HaliNa",
-            "email": "3754688512@qq.com",
+            "email": "luyzm1@outlook.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/HalinaStudio/flarum-hubui-x/issues",
-        "source": "https://github.com/HalinaStudio/flarum",
-        "forum": "https://discuss.flarum.org/d/34823"
+        "issues": "https://github.com/HalinaStudio/TionLoong-UI-2/issues",
+        "source": "https://github.com/HalinaStudio/TionLoong-UI-2",
+        "forum": "https://discuss.flarum.org.cn/d/16147"
     },
     "extra": {
         "flarum-extension": {
