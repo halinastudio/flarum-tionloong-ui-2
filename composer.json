@@ -1,5 +1,5 @@
 {
-    "name": "HalinaStudio/TionLoong-UI-2",
+    "name": "halinastudio/flarum-tionloong-ui-2",
     "description": "Rounded and right angles, soft and hard core, modern and realistic, a perfect collision!",
     "type": "flarum-extension",
     "version": "v2.0.4",
@@ -15,8 +15,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/HalinaStudio/TionLoong-UI-2/issues",
-        "source": "https://github.com/HalinaStudio/TionLoong-UI-2",
+        "issues": "https://github.com/halinastudio/flarum-tionloong-ui-2/issues",
+        "source": "https://github.com/halinastudio/flarum-tionloong-ui-2",
         "forum": "https://discuss.flarum.org.cn/d/16147"
     },
     "extra": {
